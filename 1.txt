@@ -1,3 +1,5 @@
 hello world my local changes
 hello world with git stash
 hello world with changes
+hello work with my changes for git stash
+revert example
